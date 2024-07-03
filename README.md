@@ -7,4 +7,4 @@ This network curently uses the `sigmoid function` as the activation function and
 I use a mini-batach stochastic gradient descent to minimize the loss function. I vectorized the backpropagation step to utilize numpy's efficiencies in matrix operations instead of backwardpassing for each individual neuron. This helped reduce the model training time.
 
 
-Current Accuracy: 96.79%
+*Current Accuracy: 96.79%*
