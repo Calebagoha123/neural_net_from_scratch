@@ -12,8 +12,8 @@ I use a mini-batach stochastic gradient descent to minimize the loss function. I
 
 *Current Accuracy: 96.82%*
 
-[Cost graph with ReLU](relu_cost.png)
+![Cost graph with ReLU](relu_cost.png)
 
-[Accuracy graph with ReLU](relu_accuracy.png)
+![Accuracy graph with ReLU](relu_accuracy.png)
 
 Up next: Convolutional Neural Network (CNN). This should work better than my current fully connected layer
