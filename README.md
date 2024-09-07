@@ -1,6 +1,6 @@
 # neural_net_from_scratch
 
-I'm currently learning about neural networks and will be documenting my progress by building them with just numpy on this GitHub repo as I go deeper into building better networks. Check out my other [repo]() where I reimplement ML papers in pytorch.
+I'm currently learning about neural networks and will be documenting my progress by building them with just numpy on this GitHub repo as I go deeper into building better networks. Check out my other repo [PaperTorch](https://github.com/Calebagoha123/PaperTorch) where I reimplement ML papers in pytorch.
 
 This network curently uses the `sigmoid function` as the activation function and the `cross entropy loss` as the cost function. The cross entropy performs better than the MSE/quadratic cost function because it 'fails fast'. Instead of taking small learning steps when model outputs are far from expected, it adjusts the weights and biases much quicker. 
 
